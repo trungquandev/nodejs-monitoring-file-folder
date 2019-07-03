@@ -7,8 +7,9 @@
 Clone project and run project.
 
 Important: If you want to run this project, you have to create two files in a folder that same level with this project:
-- "../laravel-example/storage/logs/laravel.log"
-- "../laravel-example/storage/logs/error.log"
+Example of me:
+- "/laravel-example/storage/logs/laravel.log"
+- "/laravel-example/storage/logs/error.log"
 
 ```
 $ git clone https://git_url_clone <project_dir>
